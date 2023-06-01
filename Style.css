@@ -1,0 +1,63 @@
+body{
+    background-color: darkslategray;
+    font-family: "Times New Roman"
+}
+
+.row
+{
+    background-color: rgba(0, 7, 7, 0.644);
+    color:white;
+    font-family: "Times New Roman";
+    
+}
+
+.row1
+{
+    background-color: rgba(0, 7, 7, 0.644);
+    color:white; 
+    font-family: "Times New Roman";
+    font-size: "xx-large";
+}
+
+
+.row{
+    background:darkslategray
+}
+
+.card-body{
+    background-color:rgb(139, 14, 14)
+}
+
+.imagen1 {
+    float: left;
+    width: 30%;
+    padding-right: 5px;
+}
+.imagen2 {
+    float: left;
+    width: 40%;
+    padding-right: 5px;
+}
+
+.imagenes-linea::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.imagen7 {
+    float: left;
+    width: 36%;
+    padding-right: 5px;
+}
+.imagen8 {
+    float: left;
+    width: 36%;
+    padding-right: 5px;
+}
+.imagen9 {
+    float: left;
+    width: 25.5%;
+    padding-right: 5px;
+}
